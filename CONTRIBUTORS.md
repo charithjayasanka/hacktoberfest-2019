@@ -334,3 +334,7 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Charith Jayasanka](https://github.com/charithjayasanka)
+- Place: Colombo, Sri Lanka
+- Bio: Undergraduate at University of Westminster
+- GitHub: [charithjayasanka](https://github.com/charithjayasanka)
